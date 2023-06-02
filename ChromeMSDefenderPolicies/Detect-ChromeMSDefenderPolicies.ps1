@@ -1,5 +1,5 @@
 # Detect-ChromeMSDefenderPolicies.ps1 Intune Proactive Remediation detection script
-# For the Microsoft Defender Browser Protection for Chrome extension, disable toggling proteciton off, and bypassing blocks.
+# For the Microsoft Defender Browser Protection for Chrome extension, disable toggling protection off, and bypassing blocks.
 # Reference: https://textslashplain.com/2023/05/31/improving-the-microsoft-defender-browser-protection-extension/
 # Written by Doug Howell on 2023-06-01
 
